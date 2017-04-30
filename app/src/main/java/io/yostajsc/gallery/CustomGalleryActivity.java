@@ -14,8 +14,6 @@ import android.widget.GridView;
 
 import java.util.ArrayList;
 
-import in.lxltech.customgallery.R;
-
 /**
  * Created by pradeepkumar on 7/28/2016.
  */

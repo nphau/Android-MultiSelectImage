@@ -7,12 +7,6 @@ import android.support.v4.view.ViewPager;
 
 import java.util.ArrayList;
 
-import in.lxltech.customgallery.R;
-
-/**
- * Created by pradeepkumar on 8/10/2016.
- */
-
 public class ImagesInFullScreen extends Activity {
     private FullScreenImageAdapter adapter;
     private ViewPager viewPager;

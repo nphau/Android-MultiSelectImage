@@ -4,8 +4,6 @@ package io.yostajsc.gallery;
 import android.view.View;
 import android.widget.ImageView;
 
-import in.lxltech.customgallery.R;
-
 /**
  * Created by pradeepkumar on 8/1/2016.
  */

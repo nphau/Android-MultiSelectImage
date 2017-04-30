@@ -12,8 +12,6 @@ import com.bumptech.glide.Glide;
 
 import java.util.ArrayList;
 
-import in.lxltech.customgallery.R;
-
 /**
  * Created by pradeepkumar on 7/28/2016.
  */
