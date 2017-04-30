@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="permissionsdispatcher-2.3.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/8607150df255cc913c44bbf1c1f24674553609d1/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/8607150df255cc913c44bbf1c1f24674553609d1/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.hotchemi/permissionsdispatcher/2.3.1/200a5baf968a4490375113801b5de7ce13035c5/permissionsdispatcher-2.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
